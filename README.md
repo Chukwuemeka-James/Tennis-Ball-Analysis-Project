@@ -49,3 +49,6 @@ The **Tennis Ball Analysis Project** is a computer vision and machine learning p
    - Total player movement speed
    - Last player movement speed
    - Average shot and movement speeds
+
+### 7. **What of the model?**
+   - it is too heavy and i cant upload it. 
